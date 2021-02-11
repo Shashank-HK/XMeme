@@ -1,6 +1,0 @@
-[submodule "backend"]
-	path = backend
-	url = git@gitlab.crio.do:COHORT_ME_BUILDOUT_XMEME_ENROLL_1612436694845/shashankhk-1999-me_buildout_xmeme.git
-[submodule "frontend"]
-	path = frontend
-	url = git@gitlab.crio.do:COHORT_ME_BUILDOUT_XMEME_ENROLL_1612436694845/shashankhk-1999-me_buildout_xmeme.git
