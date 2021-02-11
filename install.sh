@@ -14,9 +14,9 @@ sudo systemctl start mongod
 sudo systemctl enable mongod
 
 #install node
-sudo apt purge nodejs npm
 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 . ~/.nvm/nvm.sh
 nvm install node
-source ~/.bashrc
+nvm install-latest-npm
+source ~/.bashrc/
