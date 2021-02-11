@@ -18,5 +18,6 @@ sudo systemctl enable mongod
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
 . ~/.nvm/nvm.sh
 nvm install node
-nvm install-latest-npm
-source ~/.bashrc/
+node -e "console.log('Running Node.js ' + process.version)"
+PATH = '~/.nvm/versions/:$PATH'
+. ~/.bashrc
