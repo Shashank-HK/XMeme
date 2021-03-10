@@ -1,5 +1,5 @@
 # XMeme
-Meme sharing website.
+Platform to share memes.
 
 Made using MERN stack. - MongoDB, React, Node.js, Express
 
